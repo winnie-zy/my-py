@@ -1,0 +1,3 @@
+boto3==1.11
+pandas
+snowflake-connector-python
